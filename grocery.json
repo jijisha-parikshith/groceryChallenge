@@ -1,0 +1,61 @@
+{
+  "Grocery":[ 
+
+      { 
+     "SlNo":"1",
+     "ItemName":"Rice",
+     "Quantity":"3",
+     "Unit":"Kg",
+     "Department":"Stationery",
+     "Notes":"Kuruva boiled"
+    },
+    {
+        "SlNo":"2",
+        "ItemName":"Apple",
+         "Quantity":"1",
+         "Unit":"Kg",
+         "Department":"Fruits",
+         "Notes":"Green apple"
+        },
+        {
+            "SlNo":"3",
+             "ItemName":"Milk",
+             "Quantity":"1",
+             "Unit":"L",
+             "Department":"Dairy",
+             "Notes":"Milma"
+            },
+            {
+                 "SlNo":"4",
+                 "ItemName":"Pressure cooker",
+                 "Quantity":"4",
+                 "Unit":"L",
+                 "Department":"Utensils",
+                 "Notes":"Prestige"
+                },
+                {
+                    "SlNo":"5",
+                    "ItemName":"Pen",
+                    "Quantity":"1",
+                    "Unit":"Pack",
+                    "Department":"Stationery",
+                    "Notes":"Cello"
+                   },
+                   {
+                    "SlNo":"6",
+                    "ItemName":"Face wash",
+                    "Quantity":"100",
+                    "Unit":"gm",
+                    "Department":"Cosmetics",
+                    "Notes":"Himalaya"
+                   },
+                   {
+                    "SlNo":"7",
+                    "ItemName":"Soap",
+                    "Quantity":"4",
+                    "Unit":"Pack",
+                    "Department":"Stationery",
+                    "Notes":"Pears"
+                   }
+            ]
+        }

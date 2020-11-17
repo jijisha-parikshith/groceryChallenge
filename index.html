@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grocery Challenge</title>
+    <style>
+        #GRTable{
+            margin-top: 30px;
+            margin-left: auto;
+            margin-right: auto;
+            width:100%;
+        }
+        table, th, td {
+  border: 1px solid black;
+  padding: 15px;;
+}
+tr{
+    text-align: left;
+}
+table {
+  border-collapse: collapse;
+  margin-left: auto;
+            margin-right: auto;
+            width:500px;  height: 30%;
+}
+body{
+    background-color: #81d0f7;
+}
+
+    </style>
+        <script src="ajax.js"></script>
+
+</head>
+<body >
+    <div style="text-align: center;">
+<h2>Grocery Shopping List</h2>
+<button onclick="loadDoc()">Click here to view your purcahse List</button>
+<div id="GRTable"></div>
+    </div>
+</body>
+</html>
